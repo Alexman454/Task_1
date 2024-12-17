@@ -31,3 +31,4 @@
 
 ``` wc <name> ``` - Вывод количества строк, слов и символов в файле
 # Общий тест через pytest
+https://github.com/Alexman454/Task_1/blob/main/pytests.png
