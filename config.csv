@@ -1,0 +1,38 @@
+2024-12-17T10:00:00.000000, VFS initialized
+2024-12-17T10:01:00.000000, ls
+2024-12-17T10:02:00.000000, cd /example_dir
+2024-12-17T10:03:00.000000, head example_file.txt
+2024-12-17T10:04:00.000000, uniq example_file.txt
+2024-12-17T10:05:00.000000, wc example_file.txt
+2024-12-17T10:06:00.000000, exit2024-12-17T21:07:03.947326,VFS initialized
+2024-12-17T21:07:17.308066,ls
+2024-12-17T21:07:20.342629,cd home
+2024-12-17T21:08:26.868733,ls
+2024-12-17T21:08:28.943330,cd user
+2024-12-17T21:08:32.819003,ls
+2024-12-17T21:08:35.173450,cd docs
+2024-12-17T21:08:37.312387,ls
+2024-12-17T21:20:48.249426,VFS initialized
+2024-12-17T21:20:57.992481,cd home/user/docs
+2024-12-17T21:21:23.291023,ls
+2024-12-17T21:27:02.270393,VFS initialized
+2024-12-17T21:27:08.966980,ls
+2024-12-17T21:27:16.088701,cd home\user\docs
+2024-12-17T21:27:31.408779,File file1.txt read in binary mode due to encoding issues
+2024-12-17T21:28:12.738776,File file2.txt read in binary mode due to encoding issues
+2024-12-17T21:28:35.937790,File file1.txt read in binary mode due to encoding issues
+2024-12-17T21:28:44.500029,File file2.txt read in binary mode due to encoding issues
+2024-12-17T21:29:12.680818,File file1.txt read in binary mode due to encoding issues
+2024-12-17T21:29:17.725237,File file2.txt read in binary mode due to encoding issues
+2024-12-17T21:29:22.763107,exit
+2024-12-17T22:12:01.586983,VFS initialized
+2024-12-17T22:13:44.528305,VFS initialized
+2024-12-17T22:13:47.330021,ls
+2024-12-17T22:13:54.422022,cd home
+2024-12-17T22:13:58.468026,cd user
+2024-12-17T22:14:10.658020,ls
+2024-12-17T22:14:15.209023,cd docs
+2024-12-17T22:14:17.090021,ls
+2024-12-17T22:15:29.993147,VFS initialized
+2024-12-17T22:15:33.909164,ls
+2024-12-17T22:15:48.551142,VFS initialized
