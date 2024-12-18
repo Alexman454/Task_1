@@ -44,5 +44,8 @@ python -m pytest test.py -s
 ``` head <name> ``` - Вывод первых 10 строк файла
 
 ``` wc <name> ``` - Вывод количества строк, слов и символов в файле
+# Проверка работы команд
+
+![](https://github.com/Alexman454/Task_1/blob/main/tests_reg.png)
 # Общий тест через pytest
 ![](https://github.com/Alexman454/Task_1/blob/main/pytests.png)
