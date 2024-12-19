@@ -46,6 +46,7 @@ python -m pytest test.py -s
 ``` wc <name> ``` - Вывод количества строк, слов и символов в файле
 # Проверка работы команд
 
-![](https://github.com/Alexman454/Task_1/blob/main/tests_reg.png)
+![](https://github.com/Alexman454/Task_1/blob/main/main.png)
 # Общий тест через pytest
+
 ![](https://github.com/Alexman454/Task_1/blob/main/pytests.png)
